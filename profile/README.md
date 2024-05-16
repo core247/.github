@@ -5,6 +5,6 @@ all stages — we develop and maintain the IT infrastructure of \
 digital products 24/7.
 
 We also have: \
-— our technical blog https://core247.kz/blog where we share \
+— [our technical blog](https://core247.kz/blog) where we share \
 our DevOps experience \
 — [@DevOpsKaz](https://t.me/DevOpsKaz) in Telegram.
